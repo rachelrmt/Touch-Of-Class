@@ -1,19 +1,56 @@
-# Touch-Of-Class
-Rachel is a Registered Massage Therapist providing personalized, evidence-informed care in both clinic and spa settings. She offers therapeutic, deep tissue, relaxation, and hot stone massage. Explore the locations below to learn more and book at the clinic or spa that best suits you.
+<h1>Touch of Class Massage Therapy</h1>
 
-<a href="https://ctmassageosteo.janeapp.com/#/staff_member/12">CT Masssage Osteo</a>
-<p>282 Ottawa Street North, Hamilton</p>
+<p>
+Registered Massage Therapy tailored to your individual needs. Whether you're seeking
+pain relief, injury recovery, improved mobility, or relaxation, Rachel provides
+evidence-informed treatments in a professional and welcoming environment.
+</p>
 
+<h2>Book an Appointment</h2>
 
-<a href="https://www.phorest.com/salon/zenbarhealingstudio/book/services?staffId=u_w2OuhN-P21xAQg_WouOQ">Zenbar Healing Studio</a>
-<p>487 Cornwall Road, Oakville, ON L6J 7S8</p>
+<div class="location-card">
+    <h3>CT Massage & Osteopathy</h3>
+    <p>282 Ottawa Street North<br>Hamilton, ON</p>
+    <a href="https://ctmassageosteo.janeapp.com/#/staff_member/12">Book at CT Massage & Osteopathy →</a>
+</div>
 
-<h1>About Rachel</h1>
-<img src="RachelPhoto" alt="Rachel Wong RMT" width="500" height="600">
-<p>As an RMT, I am committed to helping clients reduce pain, restore movement, and improve their overall well-being through evidence-informed, client-centered care. I believe every treatment should be tailored to the individual’s unique needs, whether they are recovering from an injury, managing chronic pain, reducing stress, or maintaining an active lifestyle.
+<div class="location-card">
+    <h3>Zenbar Healing Studio</h3>
+    <p>487 Cornwall Road<br>Oakville, ON L6J 7S8</p>
+    <a href="https://www.phorest.com/salon/zenbarhealingstudio/book/services?staffId=u_w2OuhN-P21xAQg_WouOQ">Book at Zenbar Healing Studio →</a>
+</div>
 
-As an active person and amateur powerlifter, I understand the importance of movement, recovery, and performance. My own experiences with strength training have given me a deeper appreciation for injury prevention, rehabilitation, and helping people achieve their physical goals. When I’m not in the clinic or the gym, I enjoy spending time outdoors and am always looking for opportunities to learn new skills and challenge myself.
+<hr>
 
-My approach combines therapeutic massage techniques with a focus on education and collaboration, helping clients better understand their bodies and supporting them in achieving their health and wellness goals. I aim to provide treatments that are both effective and personalized, so each client leaves feeling better equipped to move comfortably and confidently.
+<h2>Meet Rachel</h2>
 
-I am passionate about helping people move and feel their best, and I take pride in providing professional, compassionate care that supports relaxation, recovery, and overall well-being.</p>
+<img src="RachelPhoto" alt="Rachel Wong, Registered Massage Therapist" width="450">
+
+<p>
+Rachel is a Registered Massage Therapist dedicated to helping clients reduce pain,
+restore movement, and improve their overall well-being through personalized,
+evidence-informed care. Every treatment is tailored to each client's unique goals,
+whether recovering from an injury, managing chronic pain, reducing stress, or
+maintaining an active lifestyle.
+</p>
+
+<p>
+As an active individual and amateur powerlifter, Rachel understands the importance
+of movement, recovery, and injury prevention. Her personal experience with strength
+training provides valuable insight into treating athletes, active individuals, and
+those looking to return to the activities they enjoy.
+</p>
+
+<p>
+Rachel offers therapeutic massage, deep tissue massage, relaxation massage, and hot
+stone massage. She believes in combining hands-on treatment with education,
+empowering clients to better understand their bodies while supporting long-term
+health and wellness.
+</p>
+
+<p>
+Outside the treatment room, Rachel enjoys spending time in the gym, fishing,
+exploring the outdoors, and continually expanding her knowledge through ongoing
+professional development. She is passionate about creating a comfortable, welcoming
+environment where every client feels supported on their wellness journey.
+</p>
