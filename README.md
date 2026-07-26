@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <h1>Touch of Class Massage Therapy</h1>
 
 <p>
