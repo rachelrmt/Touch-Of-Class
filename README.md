@@ -9,6 +9,7 @@ Rachel is a Registered Massage Therapist providing personalized, evidence-inform
 <p>487 Cornwall Road, Oakville, ON L6J 7S8</p>
 
 <h1>About Rachel</h1>
+<img src="RachelPhoto" alt="Rachel Wong RMT" width="500" height="600">
 <p>As an RMT, I am committed to helping clients reduce pain, restore movement, and improve their overall well-being through evidence-informed, client-centered care. I believe every treatment should be tailored to the individual’s unique needs, whether they are recovering from an injury, managing chronic pain, reducing stress, or maintaining an active lifestyle.
 
 As an active person and amateur powerlifter, I understand the importance of movement, recovery, and performance. My own experiences with strength training have given me a deeper appreciation for injury prevention, rehabilitation, and helping people achieve their physical goals. When I’m not in the clinic or the gym, I enjoy spending time outdoors and am always looking for opportunities to learn new skills and challenge myself.
